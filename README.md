@@ -1,3 +1,3 @@
-# Simple Worldbuilding System
+# Castles & Crusades System
 
-A simple game system for Foundry VTT which allows for flexible definition of Actors and Items to assist with worldbuilding or for running games which do not have a more complete system implementation available.
+Using the simple system template I am attempting to setup Castles & Crusades by Troll Lord Games.
